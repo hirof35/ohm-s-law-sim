@@ -2,7 +2,8 @@
 
 TypeScriptで構築された、直感的かつ高精度な電気回路シミュレーターWebアプリケーションです。
 単なる数値計算にとどまらず、オームの法則の整合性検証（バリデーション）、消費電力（W）のリアルタイム算出、および電流値に同期して流速が変化するグラフィカルな電子アニメーションUIを搭載しています。
-<img width="565" height="590" alt="スクリーンショット 2026-05-30 094336" src="https://github.com/user-attachments/assets/6711b92e-b49d-4a5d-ae5f-b565640c355a" />
+<img width="764" height="1034" alt="スクリーンショット 2026-05-30 095951" src="https://github.com/user-attachments/assets/e59e3cbb-abc6-4f1c-a3dc-ac1d2eb44ad5" />
+
 
 ## 🚀 主な機能・特徴
 
